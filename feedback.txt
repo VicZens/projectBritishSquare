@@ -1,0 +1,64 @@
+CSCI-140 Project 01: Feedback
+===============================
+(please use the RETURN key to make multiple lines; don't assume autowrap.)
+
+0. Author Information
+---------------------
+
+CS Username:    vxw2046           Name:           Victor Wu
+
+1. Assignment Feedback
+----------------------
+a) What did you learn by doing this assignment?
+
+I learned that its not easy to code anything all in one sitting.
+Some things were done last minute, such as the commenting and the
+debugging for compatibility, but most things, such as printing
+the board and printing the output, was done beforehand. It was a
+bit stressful near the end.
+
+
+----------------------
+b) What was easy about this assignment?
+
+Nothing was really easy about this assignment and nothing was
+really hard about this assignment. I did go on a coding spree
+a few times but I would not say that it was easy. It was just
+knowing what to do at that point in time that made the code 
+work smoothly.
+
+
+----------------------
+c) What was harder than you originally thought?
+
+Nothing was really harder than what I originally thought. Maybe
+creating and printing the array since it had to look exactly like
+what was given to use, but besides that they were all within
+expectations.
+
+
+----------------------
+d) What can the instructor do to improve this assignment?
+
+I think this assignment was good. We had a lot of freedom to do
+it the way we pleased and in the end was a challenging but
+fulfilling project to do. Maybe if it was a more modern game
+so that strategy guides are available for the hard AI, but that
+might just be something we have to think about ourselves, which
+is nice.
+
+
+----------------------
+e) What would you have liked to do in this assignment?
+
+It would’ve been better if the output was customizable, but
+it would’ve been much harder to grade and would take the grader
+a much longer time. But although the project did give freedom,
+there were parts of it that would be restricting.
+
+
+----------------------
+f) What other issues would you like to discuss?
+
+Nothing else.
+

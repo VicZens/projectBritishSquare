@@ -1,0 +1,281 @@
+
++---+---+---+---+---+
+|   |   |   |   |   |
+|0  |1  |2  |3  |4  |
++---+---+---+---+---+
+|   |   |   |   |   |
+|5  |6  |7  |8  |9  |
++---+---+---+---+---+
+|   |   |   |   |   |
+|10 |11 |12 |13 |14 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|15 |16 |17 |18 |19 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|20 |21 |22 |23 |24 |
++---+---+---+---+---+
+
+human player X moving...
+Player X: Enter the location to place your piece (-1 to quit): Player places an X piece at location: 0
+
++---+---+---+---+---+
+|XXX|   |   |   |   |
+|XXX|1  |2  |3  |4  |
++---+---+---+---+---+
+|   |   |   |   |   |
+|5  |6  |7  |8  |9  |
++---+---+---+---+---+
+|   |   |   |   |   |
+|10 |11 |12 |13 |14 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|15 |16 |17 |18 |19 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|20 |21 |22 |23 |24 |
++---+---+---+---+---+
+
+human player O moving...
+Player O: Enter the location to place your piece (-1 to quit): Player places an O piece at location: 6
+
++---+---+---+---+---+
+|XXX|   |   |   |   |
+|XXX|1  |2  |3  |4  |
++---+---+---+---+---+
+|   |OOO|   |   |   |
+|5  |OOO|7  |8  |9  |
++---+---+---+---+---+
+|   |   |   |   |   |
+|10 |11 |12 |13 |14 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|15 |16 |17 |18 |19 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|20 |21 |22 |23 |24 |
++---+---+---+---+---+
+
+human player X moving...
+Player X: Enter the location to place your piece (-1 to quit): Player places an X piece at location: 2
+
++---+---+---+---+---+
+|XXX|   |XXX|   |   |
+|XXX|1  |XXX|3  |4  |
++---+---+---+---+---+
+|   |OOO|   |   |   |
+|5  |OOO|7  |8  |9  |
++---+---+---+---+---+
+|   |   |   |   |   |
+|10 |11 |12 |13 |14 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|15 |16 |17 |18 |19 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|20 |21 |22 |23 |24 |
++---+---+---+---+---+
+
+human player O moving...
+Player O: Enter the location to place your piece (-1 to quit): Player places an O piece at location: 8
+
++---+---+---+---+---+
+|XXX|   |XXX|   |   |
+|XXX|1  |XXX|3  |4  |
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|5  |OOO|7  |OOO|9  |
++---+---+---+---+---+
+|   |   |   |   |   |
+|10 |11 |12 |13 |14 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|15 |16 |17 |18 |19 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|20 |21 |22 |23 |24 |
++---+---+---+---+---+
+
+human player X moving...
+Player X: Enter the location to place your piece (-1 to quit): Player places an X piece at location: 4
+
++---+---+---+---+---+
+|XXX|   |XXX|   |XXX|
+|XXX|1  |XXX|3  |XXX|
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|5  |OOO|7  |OOO|9  |
++---+---+---+---+---+
+|   |   |   |   |   |
+|10 |11 |12 |13 |14 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|15 |16 |17 |18 |19 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|20 |21 |22 |23 |24 |
++---+---+---+---+---+
+
+human player O moving...
+Player O: Enter the location to place your piece (-1 to quit): Player places an O piece at location: 16
+
++---+---+---+---+---+
+|XXX|   |XXX|   |XXX|
+|XXX|1  |XXX|3  |XXX|
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|5  |OOO|7  |OOO|9  |
++---+---+---+---+---+
+|   |   |   |   |   |
+|10 |11 |12 |13 |14 |
++---+---+---+---+---+
+|   |OOO|   |   |   |
+|15 |OOO|17 |18 |19 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|20 |21 |22 |23 |24 |
++---+---+---+---+---+
+
+human player X moving...
+Player X: Enter the location to place your piece (-1 to quit): Player places an X piece at location: 10
+
++---+---+---+---+---+
+|XXX|   |XXX|   |XXX|
+|XXX|1  |XXX|3  |XXX|
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|5  |OOO|7  |OOO|9  |
++---+---+---+---+---+
+|XXX|   |   |   |   |
+|XXX|11 |12 |13 |14 |
++---+---+---+---+---+
+|   |OOO|   |   |   |
+|15 |OOO|17 |18 |19 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|20 |21 |22 |23 |24 |
++---+---+---+---+---+
+
+human player O moving...
+Player O: Enter the location to place your piece (-1 to quit): Player places an O piece at location: 18
+
++---+---+---+---+---+
+|XXX|   |XXX|   |XXX|
+|XXX|1  |XXX|3  |XXX|
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|5  |OOO|7  |OOO|9  |
++---+---+---+---+---+
+|XXX|   |   |   |   |
+|XXX|11 |12 |13 |14 |
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|15 |OOO|17 |OOO|19 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|20 |21 |22 |23 |24 |
++---+---+---+---+---+
+
+human player X moving...
+Player X: Enter the location to place your piece (-1 to quit): Player places an X piece at location: 12
+
++---+---+---+---+---+
+|XXX|   |XXX|   |XXX|
+|XXX|1  |XXX|3  |XXX|
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|5  |OOO|7  |OOO|9  |
++---+---+---+---+---+
+|XXX|   |XXX|   |   |
+|XXX|11 |XXX|13 |14 |
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|15 |OOO|17 |OOO|19 |
++---+---+---+---+---+
+|   |   |   |   |   |
+|20 |21 |22 |23 |24 |
++---+---+---+---+---+
+
+human player O moving...
+Player O: Enter the location to place your piece (-1 to quit): Player places an O piece at location: 20
+
++---+---+---+---+---+
+|XXX|   |XXX|   |XXX|
+|XXX|1  |XXX|3  |XXX|
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|5  |OOO|7  |OOO|9  |
++---+---+---+---+---+
+|XXX|   |XXX|   |   |
+|XXX|11 |XXX|13 |14 |
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|15 |OOO|17 |OOO|19 |
++---+---+---+---+---+
+|OOO|   |   |   |   |
+|OOO|21 |22 |23 |24 |
++---+---+---+---+---+
+
+human player X moving...
+Player X: Enter the location to place your piece (-1 to quit): Player places an X piece at location: 14
+
++---+---+---+---+---+
+|XXX|   |XXX|   |XXX|
+|XXX|1  |XXX|3  |XXX|
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|5  |OOO|7  |OOO|9  |
++---+---+---+---+---+
+|XXX|   |XXX|   |XXX|
+|XXX|11 |XXX|13 |XXX|
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|15 |OOO|17 |OOO|19 |
++---+---+---+---+---+
+|OOO|   |   |   |   |
+|OOO|21 |22 |23 |24 |
++---+---+---+---+---+
+
+human player O moving...
+Player O: Enter the location to place your piece (-1 to quit): Player places an O piece at location: 24
+
++---+---+---+---+---+
+|XXX|   |XXX|   |XXX|
+|XXX|1  |XXX|3  |XXX|
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|5  |OOO|7  |OOO|9  |
++---+---+---+---+---+
+|XXX|   |XXX|   |XXX|
+|XXX|11 |XXX|13 |XXX|
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|15 |OOO|17 |OOO|19 |
++---+---+---+---+---+
+|OOO|   |   |   |OOO|
+|OOO|21 |22 |23 |OOO|
++---+---+---+---+---+
+
+human player X moving...
+Player X: Enter the location to place your piece (-1 to quit): Player places an X piece at location: 22
+
++---+---+---+---+---+
+|XXX|   |XXX|   |XXX|
+|XXX|1  |XXX|3  |XXX|
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|5  |OOO|7  |OOO|9  |
++---+---+---+---+---+
+|XXX|   |XXX|   |XXX|
+|XXX|11 |XXX|13 |XXX|
++---+---+---+---+---+
+|   |OOO|   |OOO|   |
+|15 |OOO|17 |OOO|19 |
++---+---+---+---+---+
+|OOO|   |XXX|   |OOO|
+|OOO|21 |XXX|23 |OOO|
++---+---+---+---+---+
+
+No more legal moves available, the game is over
+Final Score: X = 7 : O = 6
+Player X won
